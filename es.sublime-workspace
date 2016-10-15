@@ -519,33 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "lesson#39-getting-started-with-eslint/lesson#39.html",
-			"settings":
-			{
-				"buffer_size": 63,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lesson#39-getting-started-with-eslint/app.js",
-			"settings":
-			{
-				"buffer_size": 761,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lesson#39-getting-started-with-eslint/.eslintrc",
-			"settings":
-			{
-				"buffer_size": 150,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -624,13 +597,41 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/andfelzapata90/Projects/wesbosES6"
+		"/Users/andfelzapata90/Projects/wesbosES6",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/_build",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#46-create-your-own-modules/es6modules",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#47-more-es6-module-practice/es6modules",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#49-all-about-babel-plus-npm-scripts",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#49-all-about-babel-plus-npm-scripts/babel"
 	],
 	"file_history":
 	[
-		"/Users/andfelzapata90/Projects/wesbosES6/lesson#39-getting-started-with-eslint/package.json",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#49-all-about-babel-plus-npm-scripts/lesson#49.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#49-all-about-babel-plus-npm-scripts/babel/package.json",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#49-all-about-babel-plus-npm-scripts/babel/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#49-all-about-babel-plus-npm-scripts/babel/app-compiled.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#47-more-es6-module-practice/es6modules/lesson#45.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#47-more-es6-module-practice/es6modules/src/user.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#47-more-es6-module-practice/es6modules/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#47-more-es6-module-practice/es6modules/src/config.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#46-create-your-own-modules/es6modules/src/config.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#46-create-your-own-modules/es6modules/lesson#45.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#46-create-your-own-modules/es6modules/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/src/config.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/package.json",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/webpack.config.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/lesson#45.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/_build/bundle.js.map",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/_build/bundle.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/home.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/yarn.lock",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/lesson#45.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#39-getting-started-with-eslint/lesson#39.html",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#39-getting-started-with-eslint/app.js",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#39-getting-started-with-eslint/.eslintrc",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#39-getting-started-with-eslint/package.json",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#39-getting-started-with-eslint/.eslintrc.js",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#38-all-about-symbols/lesson#38.html",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#37-working-with-multiple-promises/lesson#37.html",
@@ -733,29 +734,7 @@
 		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/components/comment.jsx",
 		"/Users/andfelzapata90/Projects/React/react-laravel/public/assets/js/app.js",
 		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/components/comment.js",
-		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/utils/utils.js",
-		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/app.js",
-		"/Users/andfelzapata90/Projects/React/react-laravel/.bowerrc",
-		"/Users/andfelzapata90/Library/Caches/Cleanup At Startup/Transmit/3677126A-5F1A-4266-8D52-DE7C4B20F0EF/OrderShippedCreditReportController.php",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/index.html",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/app.ts",
-		"/Users/andfelzapata90/Library/Caches/Cleanup At Startup/Transmit/F8D87FF7-03F5-41E2-B0D0-45A1BFB8CA5B/order-detail.blade.php",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/18-search-pipe/todo-list.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/18-search-pipe/todo-item-renderer.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/18-search-pipe/search-box.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/18-search-pipe/search-pipe.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/15-pipes-and-immutability/todo-service.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/15-pipes-and-immutability/todo-list.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/15-pipes-and-immutability/todo-item-renderer.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/15-pipes-and-immutability/todo-input.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/15-pipes-and-immutability/search-pipe.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/15-pipes-and-immutability/main.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/14-using-pipes/todo-service.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/14-using-pipes/todo-model.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/14-using-pipes/todo-list.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/14-using-pipes/todo-item-renderer.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/14-using-pipes/todo-input.ts",
-		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/14-using-pipes/search-pipe.ts"
+		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/utils/utils.js"
 	],
 	"find":
 	{
@@ -773,6 +752,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"user",
+			"export",
+			"A",
+			"apiKey",
 			"weather",
 			"posts",
 			"632429",
@@ -896,11 +879,7 @@
 			"remove",
 			"remoe",
 			"variation",
-			"formatted",
-			"gettype",
-			"efore",
-			"stk-and-tags",
-			"value"
+			"formatted"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -925,102 +904,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "lesson#39-getting-started-with-eslint/lesson#39.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 63,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								63,
-								63
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/itg.Monokai (SL).tmTheme",
-							"open_with_edit": true,
-							"side_bar_folders_auto_load_folder": 1,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "lesson#39-getting-started-with-eslint/app.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 761,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								664,
-								664
-							]
-						],
-						"settings":
-						{
-							"side_bar_folders_auto_load_folder": 1,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "lesson#39-getting-started-with-eslint/.eslintrc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 150,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								146,
-								146
-							]
-						],
-						"settings":
-						{
-							"side_bar_folders_auto_load_folder": 1,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1080,6 +965,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"webpa",
+				"lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/webpack.config.js"
+			],
 			[
 				"objectbeh",
 				"incremental-api/vendor/phpspec/phpspec/src/PhpSpec/ObjectBehavior.php"

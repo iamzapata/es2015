@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		
+		class Dog {
+
+			/**
+			 * Constructs instance of class Dog
+			 * @param  String name 
+			 * @param  String breed
+			 * @param  Int age  
+			 */
+			constructor(name, breed, age = '3') {
+				this.name = name;
+				this.breed = breed;
+				this.age = age;
+			}
+
+			/**
+			 * Gives some info about cats and dogs.
+			 * @return String
+			 */
+			static info() {
+				return 'A cat is cleaner than a dog by 10 times, a dog is better than a dog sometimew';
+			}
+
+			/**
+			 * Describes Dog instance
+			 * @return String
+			 */
+			get description() {
+				return `${this.name} is a ${this.breed} type of dog`;
+			}
+
+			/**
+			 * Friendly dog bark
+			 * @return String
+			 */
+			bark() {
+				return `🐶🐶🐶 Bark Bark! My name is ${this.name}, and I'm a ${this.breed}!`;
+			}
+
+			/**
+			 * Shows some love.
+			 * @return String
+			 */
+			cuddle() {
+				return 'I love my owner';
+			}
+
+			/**
+			 * Sets dogs nicknames if any.
+			 * 
+			 * @param  Array|String nicknames		
+			 */
+			set nicknames(nicknames) {
+				this.nicks = nicknames;
+			}
+
+			/**
+			 * Returns nicknames
+			 * @return String
+			 */
+			get nicknames() {
+
+				function alias(alias) {
+					console.log(`I'm also called ${alias}`);
+				}
+
+				if(typeof this.nicks === 'string')
+				{
+					return alias(this.nicks);
+				}
+
+				for(const nick of this.nicks) {
+					alias(nick);
+				}
+			}
+
+		}
+
+		const sara = new Dog('Sara', 'Pastor Fila', 7);
+
+	</script>
+</body>
+</html>
