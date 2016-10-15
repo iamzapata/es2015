@@ -1,0 +1,29 @@
+<html>
+	<body>
+		<script>			
+
+			const person = {
+				first: 'Andres',
+				last: 'Zapata',
+				links: {
+					social: {
+						twitter: 'https://twiitter.com/andfelzapata',
+						instagram: 'https://instagram.com/andfelzapata'
+					},
+					web: {
+						blog: 'https://azapata.com'
+					}
+				}
+			}
+
+			const {twitter:tweet, instagram:insta} = person.links.social;
+
+			console.log(tweet, insta);
+
+			const settings = { width: 300, color: 'black'}
+
+			const { width = 100, height = 400, color, fontSize = 16} = settings;
+
+		</script>
+	</body>
+</html>

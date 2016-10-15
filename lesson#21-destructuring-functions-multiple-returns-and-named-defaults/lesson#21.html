@@ -1,0 +1,34 @@
+<html>
+	<body>
+		<script>
+
+			function converCurrency(amount) {
+
+				const converted = {
+
+					USD: amount * 0.76,
+					GBP: amount * 0.53,
+					AUD: amount * 0.16,
+					MEX: amount * 0.13
+
+				};
+				return converted;
+			}
+
+			const {USD, GBP, AUD, MEX} = converCurrency(100);
+
+			function tipCal({total, tip = 0.15, tax = 0.13}) {
+
+
+				return total + (tip * total) + (tax * total);
+
+			}
+
+			const bill = tipCal({tip: 0.20, total: 120});
+
+			console.log(bill);
+
+
+		</script>
+	</body>
+</html>

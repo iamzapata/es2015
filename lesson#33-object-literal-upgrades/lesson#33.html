@@ -1,0 +1,61 @@
+<html>
+	<body>
+		
+	</body>
+	<script>
+		const first = 'antonella';
+		const last = 'ramirez';
+		const age = 3;
+		const breed = 'Criolle Cat';
+
+		const cat = {
+			first, 
+			last, 
+			age, 
+			breed,
+			pals: ['Andres', 'Nataly']
+		}
+
+		console.log(cat);
+
+
+		const modal = {
+			create() {
+
+			},
+
+			open() {
+
+			},
+			close() {
+
+			}
+		}
+
+		function invertColor(color) {
+		      return '#' + ("000000" + (0xFFFFFF ^ parseInt(color.substring(1),16)).toString(16)).slice(-6);
+		}
+
+		const key = 'pocketColor';
+		const value = '#ffc600';
+
+		const tShirt = {
+			[key]: value,
+			[`${key}Opposite`]: invertColor(value)
+		}
+
+		console.log(tShirt);
+
+		const keys = ['size', 'color', 'weight'];
+		const values = ['medium', 'red', 100];
+
+		const shirt = {
+			[keys.shift()]: values.shift(),
+			[keys.shift()]: values.shift(),
+			[keys.shift()]: values.shift()
+		}
+
+		console.log(shirt);
+
+	</script>
+</html>

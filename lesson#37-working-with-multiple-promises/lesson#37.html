@@ -1,0 +1,26 @@
+<html>
+	<body>
+		<script>
+
+		githubUser = fetch('https://api.github.com/users/andfelzapata');
+
+		githubGists = fetch('https://api.github.com/users/andfelzapata/gists');
+
+		Promise
+		    .all([githubUser, githubGists])
+		    .then(responses => {
+
+		      return Promise.all(responses.map(res => res.json()));
+
+		    })
+		    .then(responses => {
+
+		      const [weatherInfo, tweets] = responses;
+
+		      console.log(weatherInfo, tweets);
+
+		    });
+			
+		</script>
+	</body>
+</html>

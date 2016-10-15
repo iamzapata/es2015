@@ -1,0 +1,1317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clsas",
+				"classRoom"
+			],
+			[
+				"class",
+				"classRoom"
+			],
+			[
+				"github",
+				"githubGists"
+			],
+			[
+				"githu",
+				"githubUser"
+			],
+			[
+				"author",
+				"authorDetails"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"com",
+				"commentIndex"
+			],
+			[
+				"comment",
+				"comments"
+			],
+			[
+				"spre",
+				"spreadsContainer"
+			],
+			[
+				"adul",
+				"adultPresent"
+			],
+			[
+				"pep",
+				"people"
+			],
+			[
+				"inst",
+				"insta"
+			],
+			[
+				"tw",
+				"tweet"
+			],
+			[
+				"abr",
+				"abbreviated"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"App",
+				"ji:red-apple\t🍎"
+			],
+			[
+				"rde",
+				"renderKeywords"
+			],
+			[
+				"innerH",
+				"innerHTML"
+			],
+			[
+				"mar",
+				"markup"
+			],
+			[
+				"tim",
+				"timeStampParts"
+			],
+			[
+				"time",
+				"timeStamp"
+			],
+			[
+				"pre",
+				"previousValue"
+			],
+			[
+				"min",
+				"minutesPlusSeconds"
+			],
+			[
+				"flex",
+				"flexBoxElements"
+			],
+			[
+				"getE",
+				"getElementsByTagName(name)\tElement"
+			],
+			[
+				"getEle",
+				"getElementById(id)\tElement"
+			],
+			[
+				"conte",
+				"contestant"
+			],
+			[
+				"ca",
+				"capitalizedName"
+			],
+			[
+				"subs",
+				"substring(indexA)\tString"
+			],
+			[
+				"map",
+				"map\t.map()"
+			],
+			[
+				"hamburger",
+				"ji:hamburger\t🍔"
+			],
+			[
+				"ham",
+				"ji:hamburger\t🍔"
+			],
+			[
+				"ha",
+				"hamburger"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"bad",
+				"badgeCount"
+			],
+			[
+				"div",
+				"divisor"
+			],
+			[
+				"doc",
+				"doc_s\tFunction Signature"
+			],
+			[
+				"Com",
+				"CommentsEloquentRepository\t(CommentsEloquentRepository.php)"
+			],
+			[
+				"CommentsRep",
+				"CommentsRepositoryInterfaceServiceProvider\t(CommentsRepositoryInterfaceServiceProvider.php)"
+			],
+			[
+				"Re",
+				"Repositories"
+			],
+			[
+				"Comm",
+				"Comments\t(CommentsController.php)"
+			],
+			[
+				"Commen",
+				"CommentsController\t(CommentsController.php)"
+			],
+			[
+				"comp",
+				"components"
+			],
+			[
+				"ba",
+				"backbone"
+			],
+			[
+				"Ho",
+				"HomeController\t(HomeController.php)"
+			],
+			[
+				"todo",
+				"todoService"
+			],
+			[
+				"Todo",
+				"TodoTextarea"
+			],
+			[
+				"wp_ver",
+				"wp_verify_nonce"
+			],
+			[
+				"sub",
+				"submit_action"
+			],
+			[
+				"atr",
+				"attributes"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"fet",
+				"fetchByTeam"
+			],
+			[
+				"ch",
+				"checkPostType"
+			],
+			[
+				"logg",
+				"loggedIn"
+			],
+			[
+				"a",
+				"attribute"
+			],
+			[
+				"attr",
+				"attribute"
+			],
+			[
+				"attri",
+				"attributeName"
+			],
+			[
+				"att",
+				"attributeName"
+			],
+			[
+				"vai",
+				"variationTotals"
+			],
+			[
+				"vari",
+				"variationTotals"
+			],
+			[
+				"variatio",
+				"variations"
+			],
+			[
+				"produ",
+				"productName"
+			],
+			[
+				"variation",
+				"variationId"
+			],
+			[
+				"option",
+				"option:selected"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"le",
+				"length\tString"
+			],
+			[
+				"run",
+				"rundetails"
+			],
+			[
+				"teambl",
+				"teamBottlePlugin"
+			],
+			[
+				"Team",
+				"Teambottles"
+			],
+			[
+				"dire",
+				"directory"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"di",
+				"directory"
+			],
+			[
+				"get_cu",
+				"get_current_user"
+			],
+			[
+				"Meta",
+				"MetaFiedls\t(MetaFields.php)"
+			],
+			[
+				"bott",
+				"bottleStyleSettings"
+			],
+			[
+				"roster",
+				"rosterSettings"
+			],
+			[
+				"Myte",
+				"MyTeamRouter"
+			],
+			[
+				"MyTea",
+				"MyTeamPage"
+			],
+			[
+				"Tea",
+				"Teambottles"
+			],
+			[
+				"teamSe",
+				"teamSetupPage\t(teambottles-core.php)"
+			],
+			[
+				"post",
+				"post_types"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"cust",
+				"customization"
+			],
+			[
+				"secon",
+				"secondaryHeading\t(mixins.scss)"
+			],
+			[
+				"order",
+				"order-customization-container"
+			],
+			[
+				"ipmor",
+				"important\t(single-product.php)"
+			],
+			[
+				"rib",
+				"ribbonBefore\t(common.scss)"
+			],
+			[
+				"varia",
+				"variationValues"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"active",
+				"activeClass"
+			],
+			[
+				"last",
+				"lastSegment"
+			],
+			[
+				"Na",
+				"NavigationStyling\t(app.js)"
+			],
+			[
+				"main",
+				"mainImageHeight"
+			],
+			[
+				"visi",
+				"visibility\tStyle CSS"
+			],
+			[
+				"th",
+				"thumbnails"
+			],
+			[
+				"ima",
+				"imageGallery"
+			],
+			[
+				"GAll",
+				"GalleryScroll"
+			],
+			[
+				"GAl",
+				"GalleryScroll"
+			],
+			[
+				"ex",
+				"extension"
+			],
+			[
+				"Gall",
+				"GalleryScroll"
+			],
+			[
+				"Ga",
+				"GalleryScroll"
+			],
+			[
+				"Order",
+				"OrderCustomize"
+			],
+			[
+				"mainI",
+				"mainImageHeight"
+			],
+			[
+				"sports-page-ro",
+				"sports-page-container"
+			],
+			[
+				"cart",
+				"cart_icon"
+			],
+			[
+				"car",
+				"cart_icon"
+			],
+			[
+				"O",
+				"OrderCustomize"
+			],
+			[
+				"custom",
+				"customize\t(single-product.scss)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"gre",
+				"dusty-grey"
+			],
+			[
+				"fon-t",
+				"font-weight"
+			],
+			[
+				"at",
+				"attributes\t(single-product.scss)"
+			],
+			[
+				"item",
+				"itemprop\t(content-single-product.php)"
+			],
+			[
+				"impor",
+				"important\t(single-product.php)"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"entry",
+				"entry-title"
+			],
+			[
+				"requested",
+				"requestedUri"
+			],
+			[
+				"MO",
+				"MoveShippedHolding\t(MoveShippedHolding.php)"
+			],
+			[
+				"Co",
+				"Commands\t(Inspire.php)"
+			],
+			[
+				"data",
+				"datatables"
+			],
+			[
+				"orde",
+				"ordersConnection"
+			],
+			[
+				"Data",
+				"DatatableContract"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lesson#39-getting-started-with-eslint/lesson#39.html",
+			"settings":
+			{
+				"buffer_size": 63,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lesson#39-getting-started-with-eslint/app.js",
+			"settings":
+			{
+				"buffer_size": 761,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lesson#39-getting-started-with-eslint/.eslintrc",
+			"settings":
+			{
+				"buffer_size": 150,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"emoj",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"insert",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"Larave",
+				"Laravel Make: Request"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andfelzapata90/Projects/wesbosES6"
+	],
+	"file_history":
+	[
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#39-getting-started-with-eslint/package.json",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#39-getting-started-with-eslint/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#39-getting-started-with-eslint/.eslintrc",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#39-getting-started-with-eslint/.eslintrc.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#38-all-about-symbols/lesson#38.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#37-working-with-multiple-promises/lesson#37.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#36-chaining-promises-flow-control/lesson#36.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#35-building-your-own-promises/lesson#35.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#34-promises/lesson#34.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#33-object-literal-upgrades/lesson#33.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#32-the-...rest-param-in-functions-and-destructuring/lesson#32.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#31-spread-into-a-function/lesson#31.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#30-more-spread-examples/lesson#30.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#28-spread-operator-introduction/lesson#18.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#29-spread-excersice/lesson#29.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#26-array-find-and-find-index/lesson#26.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#27array-some-and-every/lesson#27.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#25-array-from-array-of/lesson#25.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#24-using-for-of-objects/lesson#24.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#20-swapping-variables-with-destructuring/lesson#20.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#23-for-of-loop-in-action/lesson#23.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#22-the-for-of-loop/lesson#22.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#19-destructing-arrays/lesson#19.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#18-destructing-objects/lesson#18.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#21-destructuring-functions-multiple-returns-and-named-defaults/lesson#21.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#17-new-string-methods/lesson#17.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#16-sanitazing-user-data-with-tagged-templates/lesson#16.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#15-tagged-templates-excercise/lesson#15.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#14-tagged-template-literals/lesson#14.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#13-creating-HTML-fragments-with-template-strings/lesson#13.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#12-template-strings-indroduction/lesson#12.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#11-arrow-function-exercices/lesson#11.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/9-default-function-arguments/default-function-arguments.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#11-arrow-function-exercices/index.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#11-arrow-function-exercices",
+		"/Users/andfelzapata90/Projects/wesbosES6/8-arrow-functions-and-this/arrow-functions-this.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/5-more-arrow-function-examples/arrow-function-examples.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/arrow-functions/arrow-functions.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/arrow-functions",
+		"/Users/andfelzapata90/Projects/wesbosES6/5-is-var-dead/is-var-dead.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/4-temporal-dead-zone/temporal-dead-zone.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/node_modules/loose-envify/node_modules/js-tokens/index.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/3-temporal-dead-zone/temporal-dead-zone.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/3-lent-const-real-life/let-const-real-life.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/1-var-let-const/var-let-const.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/1-var-let-const/let-const.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/1-var-let-const/index.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/var-let-const.html",
+		"/Users/andfelzapata90/Library/Application Support/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/Users/andfelzapata90/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/andfelzapata90/Library/Application Support/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/Users/andfelzapata90/Projects/wesbosES6/var-scoping-refresher.html",
+		"/Users/andfelzapata90/Library/Caches/Cleanup At Startup/Transmit/E10A8893-4FE9-4B03-8803-69119C729745/end-of-day-single-report.js",
+		"/Users/andfelzapata90/Library/Caches/Cleanup At Startup/Transmit/16BD6F2F-8131-42DC-9370-FADE1AC4D922/BadgeCounter.php",
+		"/Users/andfelzapata90/Library/Caches/Cleanup At Startup/Transmit/C0B6D802-A035-4949-B9D7-3A8E7CA91D8F/end-of-day-actions.js",
+		"/Users/andfelzapata90/Downloads/siglaAccionesSiglaSectores.sql",
+		"/Users/andfelzapata90/Library/Caches/Cleanup At Startup/Transmit/75440786-7929-41B4-87AB-5A66FB3DDADC/DayEndBadgeReportController.php",
+		"/Users/andfelzapata90/Library/Caches/Cleanup At Startup/Transmit/F8242624-A88B-40CF-B902-971005A0D610/end-of-day-actions.js",
+		"/Users/andfelzapata90/Library/Caches/Cleanup At Startup/Transmit/CDFF9526-7134-479A-B20E-B916D0548423/BadgeCounter.php",
+		"/Users/andfelzapata90/Library/Caches/Cleanup At Startup/Transmit/8483DBA5-8947-496E-8CB8-5CE234199E55/day_end_routes.php",
+		"/Users/andfelzapata90/Library/Caches/Cleanup At Startup/Transmit/0B751968-750F-4BF6-B307-441026E4B27D/end_day_socket.js",
+		"/Users/andfelzapata90/Downloads/timesheets.sql",
+		"/Users/andfelzapata90/Projects/laracasts/codekatas/prime-factors/src/PrimeFactors.php",
+		"/Users/andfelzapata90/Library/Application Support/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/Users/andfelzapata90/Library/Application Support/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/Users/andfelzapata90/Projects/laracasts/codekatas/prime-factors/gulpfile.js",
+		"/Users/andfelzapata90/Projects/laracasts/incremental-api/vendor/phpspec/phpspec/src/PhpSpec/ObjectBehavior.php",
+		"/Users/andfelzapata90/Projects/laracasts/var gulp = require('gulp');",
+		"/Users/andfelzapata90/Projects/laracasts/codekatas/prime-factors/composer.json",
+		"/Users/andfelzapata90/Projects/laracasts/codekatas/prime-factors/.gitignore",
+		"/Users/andfelzapata90/Projects/laracasts/codekatas/prime-factors/package.json",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Http/Controllers/Comments/CommentsController.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/gulpfile.js",
+		"/Users/andfelzapata90/Projects/React/react-laravel/resources/views/home.blade.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Http/Controllers/Home/HomeController.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Http/routes.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Http/Middleware/VerifyCsrfToken.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Repositories/Comments/CommentsEloquentRepository.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Contracts/Repositories/CollectionInterface.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Contracts/Repositories/CrudInterface.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Contracts/Repositories/CommentsRepositoryInterface.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Providers/Repositories/CommentsRepositoryInterfaceServiceProvider.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/config/app.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Providers/CommentRoutesServiceProvider.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Contracts/Repositories/RepositoryInterface.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Repositories/RepositoryInterface.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Models/Comment.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/database/seeds/CommentsTableSeeder.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/database/migrations/2016_07_12_023227_create_comments_table.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Http/Routes/comment_routes.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/sass/app.scss",
+		"/Users/andfelzapata90/Projects/React/react-laravel/app/Providers/RouteServiceProvider.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/vendor/symfony/routing/Route.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/vendor/symfony/routing/Loader/DependencyInjection/ServiceRouterLoader.php",
+		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/app.js",
+		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/components/dom.jsx",
+		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/components/commentList.jsx",
+		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/components/commentForm.jsx",
+		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/components/commentBox.jsx",
+		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/components/comment.jsx",
+		"/Users/andfelzapata90/Projects/React/react-laravel/public/assets/js/app.js",
+		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/components/comment.js",
+		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/utils/utils.js",
+		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/app.js",
+		"/Users/andfelzapata90/Projects/React/react-laravel/.bowerrc",
+		"/Users/andfelzapata90/Library/Caches/Cleanup At Startup/Transmit/3677126A-5F1A-4266-8D52-DE7C4B20F0EF/OrderShippedCreditReportController.php",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/index.html",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/app.ts",
+		"/Users/andfelzapata90/Library/Caches/Cleanup At Startup/Transmit/F8D87FF7-03F5-41E2-B0D0-45A1BFB8CA5B/order-detail.blade.php",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/18-search-pipe/todo-list.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/18-search-pipe/todo-item-renderer.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/18-search-pipe/search-box.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/18-search-pipe/search-pipe.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/15-pipes-and-immutability/todo-service.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/15-pipes-and-immutability/todo-list.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/15-pipes-and-immutability/todo-item-renderer.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/15-pipes-and-immutability/todo-input.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/15-pipes-and-immutability/search-pipe.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/15-pipes-and-immutability/main.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/14-using-pipes/todo-service.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/14-using-pipes/todo-model.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/14-using-pipes/todo-list.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/14-using-pipes/todo-item-renderer.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/14-using-pipes/todo-input.ts",
+		"/Users/andfelzapata90/Projects/Egghead/intro-to-angular2/src/lessons/14-using-pipes/search-pipe.ts"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"weather",
+			"posts",
+			"632429",
+			"element",
+			"spreadsContainer",
+			"console",
+			"Hamburger",
+			"hamburger",
+			"width",
+			">",
+			"$number",
+			"i",
+			"jquery",
+			"group",
+			"react",
+			"backbone",
+			"shipping",
+			"todoService",
+			"save_add_alternate_service_page_title_meta_box",
+			"service_alternate_title",
+			"add_alternate_service_page_title_meta_box",
+			"alternate_service_page_title_meta_box_markup",
+			"meta-box-text",
+			"2",
+			"error",
+			"'",
+			"␉",
+			"dropShip",
+			"dropShipFix",
+			"archive",
+			"undo",
+			"window.open",
+			"window.opne",
+			"window.open",
+			"compiler",
+			"Fiedls",
+			"pagination",
+			"console",
+			"consl",
+			"filterLocation",
+			"logo_location",
+			"upload+",
+			"upload",
+			"team",
+			"filterSportCategory",
+			"saveLogo",
+			"uploadNew",
+			"handle",
+			"wp_enqueue_script",
+			"checkPostType",
+			"bindings",
+			"my_function",
+			"head",
+			"Paypal",
+			"_addToCart",
+			"member",
+			"server",
+			"Server",
+			"basket-",
+			"_updateProductSummary",
+			"_addExtraRow",
+			"cart",
+			"#customization-team-table",
+			"console",
+			"addToOrderList",
+			"getVaria",
+			"_updateProductVariationSummary",
+			"nts",
+			"_populateFirstSpareItems",
+			"_spareItemsDisplay",
+			"ADD TO",
+			"ADD To",
+			"change",
+			"value",
+			"product_customization_variation_dropdowns",
+			"form",
+			"$",
+			"varations",
+			"variationValues",
+			"WC_",
+			"product",
+			"WC_",
+			"WC",
+			"WP",
+			"app",
+			"is_",
+			"show_extra_spare_items",
+			"spare",
+			"patricks_woocommerce_social_share_icons",
+			"markJobsInRun",
+			"_markJobsInRun",
+			"teamBottlePlugin",
+			"button",
+			"getPageId",
+			"plugin",
+			"plugin_name",
+			"Plugin_Name",
+			"plugin_name",
+			"Plugin_Name",
+			"plugin_name",
+			"Plugin_Name",
+			"plugin_name",
+			"user_id",
+			"roster-last-name",
+			"bottle-background",
+			"bottle-layout",
+			"3",
+			"select",
+			"personal-honorific",
+			"team-member",
+			"first-name",
+			"contact-name",
+			"title",
+			"sport-category",
+			"\">\n",
+			"this",
+			"item",
+			"value",
+			"div#instructions-colwrapper, div#order-customization-settings",
+			"cart",
+			"remove",
+			"remoe",
+			"variation",
+			"formatted",
+			"gettype",
+			"efore",
+			"stk-and-tags",
+			"value"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"isOrderPrint"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/andfelzapata90/Projects/wesbosES6"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lesson#39-getting-started-with-eslint/lesson#39.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/itg.Monokai (SL).tmTheme",
+							"open_with_edit": true,
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lesson#39-getting-started-with-eslint/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								664,
+								664
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lesson#39-getting-started-with-eslint/.eslintrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 104.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"objectbeh",
+				"incremental-api/vendor/phpspec/phpspec/src/PhpSpec/ObjectBehavior.php"
+			],
+			[
+				"illuminate/foundation/http/middleware/verifycsrftoken",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php"
+			],
+			[
+				"gulpfi",
+				"gulpfile.js"
+			],
+			[
+				"coll",
+				"app/Contracts/Repositories/CollectionInterface.php"
+			],
+			[
+				"collecti",
+				"app/Contracts/Repositories/CollectionInterface.php"
+			],
+			[
+				"commentsrepoin",
+				"app/Contracts/Repositories/CommentsRepositoryInterface.php"
+			],
+			[
+				"commentcontro",
+				"app/Http/Controllers/Comments/CommentsController.php"
+			],
+			[
+				"app.",
+				"config/app.php"
+			],
+			[
+				"com",
+				"app/Models/Comment.php"
+			],
+			[
+				"model.php",
+				"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php"
+			],
+			[
+				"comment.php",
+				"app/Models/Comment.php"
+			],
+			[
+				".scss",
+				"resources/assets/sass/app.scss"
+			],
+			[
+				"route",
+				"vendor/symfony/routing/Route.php"
+			],
+			[
+				"app.php",
+				"config/app.php"
+			],
+			[
+				"routeservice",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php"
+			],
+			[
+				"routerservice",
+				"vendor/symfony/routing/Loader/DependencyInjection/ServiceRouterLoader.php"
+			],
+			[
+				"commentroutesserviceprovider",
+				"app/Providers/CommentRoutesServiceProvider.php"
+			],
+			[
+				"gulpfil",
+				"gulpfile.js"
+			],
+			[
+				"bower",
+				".bowerrc"
+			],
+			[
+				"routes.p",
+				"app/Http/routes.php"
+			],
+			[
+				"confi",
+				"wp-config.php"
+			],
+			[
+				"funcion",
+				"wp-content/themes/twentysixteen/functions.php"
+			],
+			[
+				"functions",
+				"wp-includes/functions.php"
+			],
+			[
+				"padentalarts_inquire_shortcode",
+				"wp-content/themes/twentysixteen/padentalarts_inquire_shortcode.css"
+			],
+			[
+				"cusotms",
+				"wp-content/themes/twentysixteen/custom-styles.css"
+			],
+			[
+				"config",
+				"wp-config.php"
+			],
+			[
+				"settings",
+				"wp-settings.php"
+			],
+			[
+				"func",
+				"wp-content/themes/twentysixteen/functions.php"
+			],
+			[
+				"funcitons.",
+				"wp-includes/functions.php"
+			],
+			[
+				"user_actions",
+				"database/migrations/2016_01_18_224125_update_user_actions_table.php"
+			],
+			[
+				"create_times",
+				"database/migrations/2016_01_18_211006_create_timesheet_table.php"
+			],
+			[
+				"create_user_ac",
+				"database/migrations/2016_01_18_211158_create_user_activity_log.php"
+			],
+			[
+				"create_order",
+				"database/migrations/2015_04_04_214854_create_orders_table.php"
+			],
+			[
+				"create_users",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"user.php",
+				"app/User.php"
+			],
+			[
+				"models.js",
+				"freshinup/garden-revolution/node_modules/babel-generator/lib/generators/modules.js"
+			],
+			[
+				"models",
+				"freshinup/garden-revolution/vendor/laravel/framework/src/Illuminate/Queue/SerializesModels.php"
+			],
+			[
+				"lead",
+				"work/fivestreet/app/Models/Lead.php"
+			],
+			[
+				"source",
+				"work/fivestreet/app/Models/Source.php"
+			],
+			[
+				"app/config.php",
+				"work/datatables/vendor/psy/psysh/test/fixtures/config.php"
+			],
+			[
+				"team",
+				"app/Models/Team.php"
+			],
+			[
+				"routes.php",
+				"app/Http/routes.php"
+			],
+			[
+				"teamcontro",
+				"app/Http/Controllers/TeamController.php"
+			],
+			[
+				"team.blade",
+				"resources/views/dashboard/teams/show-team.blade.php"
+			],
+			[
+				"teams",
+				"resources/views/dashboard/teams/teams.blade.php"
+			],
+			[
+				"views.js",
+				"resources/assets/js/src/views/views.js"
+			],
+			[
+				"agents.blade",
+				"resources/views/dashboard/agents/agents.blade.php"
+			],
+			[
+				"leadcontro",
+				"app/Http/Controllers/LeadController.php"
+			],
+			[
+				"leadscontroler",
+				"app/Http/Controllers/Dashboard/DashboardController.php"
+			],
+			[
+				"user",
+				"personal/capitanchollos/app/Models/UserType.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

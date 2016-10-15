@@ -1,0 +1,18 @@
+<html>
+	<body>
+		
+	</body>
+	<script>
+		
+
+	const githubPromise = fetch('https://api.github.com/users/andfelzapata');
+	
+	githubPromise
+	  .then(data => data.json())
+	  .then(data => { console.log(data) })
+	  .catch((err) => {
+	    console.error(err);
+	});
+
+	</script>
+</html>

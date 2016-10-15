@@ -1,0 +1,60 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.3.3/backbone.js"></script>
+        <!--<link rel="stylesheet" href="css/main.css"> -->
+    </head>
+    <body>
+        <div id="sup">
+        	
+        </div>
+    </body>
+
+
+
+	<script>
+
+        const TAX = 0.13;
+        const TIP = 0.15;
+
+		
+		function calculateBill(total, tax = TAX, tip = TIP) {
+            console.log(tax, tip);
+			return total + (total * tax) + (total * tip);
+		}
+
+		const totalBill = calculateBill(100, undefined , 0.25);
+
+		console.log(totalBill);
+
+		let MyView = Backbone.View.extend({	
+
+			el: "#sup",
+
+			name: "Sup",
+
+			hi() {
+				let message = `Hello, I'm ${this.name} 🐶 🐶 🐶`;
+				this.$el.append(message);
+			}
+
+		});
+
+		const myView = new MyView();
+
+	</script>
+
+</html>

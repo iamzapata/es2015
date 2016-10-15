@@ -1,0 +1,29 @@
+<html>
+	<body>
+		<script>
+			const cuts = ['Chuck', 'Brisket', 'Shank', 'Short Rib'];
+
+			for(const [index, cut] of cuts.entries()) {
+				console.log(index, cut);
+			}
+
+			function addUpNumbers() {
+
+				let total = 0;
+
+				for(const number of arguments) {
+					total += number;
+				}
+
+				console.log(total);
+
+				return total;
+
+			}
+
+			addUpNumbers(10, 23, 52, 34, 12, 123);
+
+
+		</script>
+	</body>
+</html>

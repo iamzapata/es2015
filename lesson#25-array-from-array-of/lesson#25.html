@@ -1,0 +1,30 @@
+<html>
+	<body>
+		<div class="people">
+			<p>Wes</p>
+			<p>Kait</p>
+			<p>Snickers</p>
+		</div>
+		<script>
+
+			const people =  document.querySelectorAll('.people p');
+
+			const names  = Array.from(people, person => {
+
+				return person.textContent;
+
+			});
+
+			function sumAll()
+			{
+				const nums = Array.from(arguments);
+				return nums.reduce((prev, next) => prev + next, 0);
+			}
+
+			sumAll(1,3,3,3,10,1010,20202);
+
+			const ages = Array.of(23, 26, 27, 28);
+			
+		</script>
+	</body>
+</html>

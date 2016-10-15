@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+    </head>
+    <body>
+
+    	<script>
+    		const course = 'RFB2';
+    		const flightNumber = '20-AC2018-jz';
+    		const accountNumber = '825242681RT0001';
+
+
+    		const make = 'BMW';
+    		const model = 'XS';
+    		const colour = 'Royal Blue';
+
+    		function leftPad(str, length = 20) {
+
+    			return  `-> ${' '.repeat(length - str.length)}${str}`;
+    		}
+
+    		console.log(leftPad(make));
+    		console.log(leftPad(model));
+    		console.log(leftPad(colour));
+
+
+    	</script>
+
+    </body>
+</html>
