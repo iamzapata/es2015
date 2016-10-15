@@ -10,10 +10,27 @@
 		function Dog(name, breed) {
 			this.name = name;
 			this.breed = breed;
+			this.getName = () => {
+				console.log(this.name);
+			}
+			this.getBreed = () => {
+				console.log(this.breed);
+			}
+		}
+
+		Dog.prototype.bark = function() {
+				console.log(`Bark Bark!, I am ${this.name}`);
 		}
 
 		const sara = new Dog("Sara", "Pastor Fila");
 
+		Dog.prototype.bark = function() {
+				console.log(`Bark Bark 🇨🇴 🇨🇴 🇨🇴! My name is ${this.name} and I'm a ${this.breed}`);
+		};
+
+		Dog.prototype.cuddle = function() {
+			console.log('I love you owner!');
+		}
 	</script>
 </body>
 </html>
