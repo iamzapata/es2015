@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"WE",
+				"WeakSet\tES6 WeakSet"
+			],
+			[
+				"like",
+				"likeKey"
+			],
+			[
+				"safe",
+				"safeHanlder"
+			],
+			[
+				"person",
+				"personProxy"
+			],
+			[
+				"star",
+				"starRating"
+			],
+			[
+				"extend",
+				"extends"
+			],
+			[
 				"clsas",
 				"classRoom"
 			],
@@ -490,30 +514,6 @@
 			[
 				"entry",
 				"entry-title"
-			],
-			[
-				"requested",
-				"requestedUri"
-			],
-			[
-				"MO",
-				"MoveShippedHolding\t(MoveShippedHolding.php)"
-			],
-			[
-				"Co",
-				"Commands\t(Inspire.php)"
-			],
-			[
-				"data",
-				"datatables"
-			],
-			[
-				"orde",
-				"ordersConnection"
-			],
-			[
-				"Data",
-				"DatatableContract"
 			]
 		]
 	},
@@ -598,18 +598,45 @@
 	"expanded_folders":
 	[
 		"/Users/andfelzapata90/Projects/wesbosES6",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#24-using-for-of-objects",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#30-more-spread-examples",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules",
-		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/_build",
-		"/Users/andfelzapata90/Projects/wesbosES6/lesson#46-create-your-own-modules/es6modules",
-		"/Users/andfelzapata90/Projects/wesbosES6/lesson#47-more-es6-module-practice/es6modules",
-		"/Users/andfelzapata90/Projects/wesbosES6/lesson#49-all-about-babel-plus-npm-scripts",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#49-all-about-babel-plus-npm-scripts/babel"
 	],
 	"file_history":
 	[
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#65-map-metadata-with-dom-node-keys/lesson#65.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#65-map-metadata-with-dom-node-keys/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#64-maps/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#64-maps/lesson#64.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#63-WeakSets/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#63-WeakSets/lesson#64.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#61-understanding-sets-with-brunch/lesson#61.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#61-understanding-sets-with-brunch/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#61-sets/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#61-sets/lesson#61.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#57-looping-generators-with-for-of/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#60-using-proxies-to-combat-silly-errors/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#60-using-proxies-to-combat-silly-errors/lesson#60.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#59-another-proxy-example/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#59-another-proxy-example/lesson#59.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#58-what-are-proxies/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#58-what-are-proxies/lesson#58.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#49-all-about-babel-plus-npm-scripts/babel/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#57-looping-generators-with-for-of/lesson#57.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#56-using-generators-for-ajax-flow-control/lesson#56.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#56-using-generators-for-ajax-flow-control/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#55-introducing-generators/lesson#55.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#55-introducing-generators/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#54-extending-arrays-with-classes-for-custom-collections/lesson#54.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#54-extending-arrays-with-classes-for-custom-collections/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#53-extending-classes-and-using-super/app.js",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#53-extending-classes-and-using-super/lesson#53.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#52-say-hello-to-classes/lesson#52.html",
+		"/Users/andfelzapata90/Projects/wesbosES6/lesson#51-prototypal-inheritence-review/lesson#51.html",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#49-all-about-babel-plus-npm-scripts/lesson#49.html",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#49-all-about-babel-plus-npm-scripts/babel/package.json",
-		"/Users/andfelzapata90/Projects/wesbosES6/lesson#49-all-about-babel-plus-npm-scripts/babel/app.js",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#49-all-about-babel-plus-npm-scripts/babel/app-compiled.js",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#47-more-es6-module-practice/es6modules/lesson#45.html",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#47-more-es6-module-practice/es6modules/src/user.js",
@@ -622,7 +649,6 @@
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/package.json",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/webpack.config.js",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/lesson#45.html",
-		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/app.js",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/_build/bundle.js.map",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/_build/bundle.js",
 		"/Users/andfelzapata90/Projects/wesbosES6/lesson#45-javascript-modules-and-webpack-2-tooling-setup/es6modules/home.html",
@@ -706,35 +732,7 @@
 		"/Users/andfelzapata90/Projects/React/react-laravel/app/Http/Controllers/Home/HomeController.php",
 		"/Users/andfelzapata90/Projects/React/react-laravel/app/Http/routes.php",
 		"/Users/andfelzapata90/Projects/React/react-laravel/app/Http/Middleware/VerifyCsrfToken.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/app/Repositories/Comments/CommentsEloquentRepository.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/app/Contracts/Repositories/CollectionInterface.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/app/Contracts/Repositories/CrudInterface.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/app/Contracts/Repositories/CommentsRepositoryInterface.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/app/Providers/Repositories/CommentsRepositoryInterfaceServiceProvider.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/config/app.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/app/Providers/CommentRoutesServiceProvider.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/app/Contracts/Repositories/RepositoryInterface.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/app/Repositories/RepositoryInterface.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/app/Models/Comment.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/database/seeds/CommentsTableSeeder.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/database/migrations/2016_07_12_023227_create_comments_table.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/app/Http/Routes/comment_routes.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/sass/app.scss",
-		"/Users/andfelzapata90/Projects/React/react-laravel/app/Providers/RouteServiceProvider.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/vendor/symfony/routing/Route.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/vendor/symfony/routing/Loader/DependencyInjection/ServiceRouterLoader.php",
-		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/app.js",
-		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/components/dom.jsx",
-		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/components/commentList.jsx",
-		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/components/commentForm.jsx",
-		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/components/commentBox.jsx",
-		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/components/comment.jsx",
-		"/Users/andfelzapata90/Projects/React/react-laravel/public/assets/js/app.js",
-		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/src/components/comment.js",
-		"/Users/andfelzapata90/Projects/React/react-laravel/resources/assets/js/utils/utils.js"
+		"/Users/andfelzapata90/Projects/React/react-laravel/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php"
 	],
 	"find":
 	{
@@ -752,6 +750,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"dog",
+			"wes",
+			"[description]",
 			"user",
 			"export",
 			"A",
@@ -876,10 +877,7 @@
 			"value",
 			"div#instructions-colwrapper, div#order-customization-settings",
 			"cart",
-			"remove",
-			"remoe",
-			"variation",
-			"formatted"
+			"remove"
 		],
 		"highlight": true,
 		"in_selection": false,
